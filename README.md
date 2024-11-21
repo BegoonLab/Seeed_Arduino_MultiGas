@@ -1,6 +1,6 @@
 # Seeed Grove_Multichannel_Gas_Sensor V2.0  [![Build Status](https://travis-ci.com/Seeed-Studio/Seeed_Multichannel_Gas_Sensor.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Seeed_Multichannel_Gas_Sensor)
 ## Introduction 
-An Arduino library for Grove Multichannel Gas Sensor V2.0
+An Arduino library for [Seeed Studio's Grove Multichannel Gas Sensor V2.0](https://www.seeedstudio.com/Grove-Multichannel-Gas-Sensor-v2-p-4569.html)
 
 ## Usage
     1.Git clone this resp to your Arduino IDE's libraries directory.
